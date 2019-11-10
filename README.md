@@ -34,7 +34,7 @@ You can use `BottomDialog` in two different ways ：
 A simple three lines of code can be done:
     
     BottomDialog.create(getSupportFragmentManager())
-                    .setLayoutRes(R.layout.dialog_layout)      // dialog layout
+                    .setLayoutRes(R.layout.dialog_layout)      // dialogs layout
                     .show();
                     
 Of course, you can also make simple settings:
